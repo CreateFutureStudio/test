@@ -1,3 +1,5 @@
+'use strict';
+
 let isCheked = true,
     isClose = false;
 
